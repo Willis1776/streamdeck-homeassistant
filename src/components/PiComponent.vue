@@ -223,7 +223,7 @@ onMounted(() => {
     // Dual State entity (custom icons for on/off)
     const inActionInfoObject = JSON.parse(inActionInfo);
 
-    useStateImagesForOnOffStates.value = inActionInfoObject["action"] === "de.perdoctus.streamdeck.homeassistant.dual-state-entity";
+    useStateImagesForOnOffStates.value = inActionInfoObject["action"] === "com.claritycode.homeassistant.dual-state-entity";
     controllerType.value = inActionInfoObject.payload.controller
 
     $SD.on("globalsettings", (globalSettings) => {

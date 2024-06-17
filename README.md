@@ -32,7 +32,7 @@ service that does not need any more information but the entity id.
 
 ## Installation
 ### Via the official Stream Deck store
-You can find and install this plugin from the [official Stream Deck Store](https://apps.elgato.com/plugins/de.perdoctus.streamdeck.homeassistant)
+You can find and install this plugin from the [official Stream Deck Store](https://apps.elgato.com/plugins/com.claritycode.homeassistant)
 
 ### Manual installation (not recommended)
 * Download the latest plugin release [here][https://github.com/cgiesche/streamdeck-homeassistant/releases]

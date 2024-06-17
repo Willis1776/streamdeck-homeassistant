@@ -12,7 +12,7 @@
         }
       ],
       "SupportedInMultiActions": true,
-      "UUID": "de.perdoctus.streamdeck.homeassistant.entity",
+      "UUID": "com.claritycode.homeassistant.entity",
       "Controllers": ["Keypad", "Encoder"],
       "Encoder": {
         "layout": "$A0",
@@ -38,19 +38,19 @@
         }
       ],
       "SupportedInMultiActions": true,
-      "UUID": "de.perdoctus.streamdeck.homeassistant.dual-state-entity"
+      "UUID": "com.claritycode.homeassistant.dual-state-entity"
     }
   ],
   "Category": "Home Assistant",
   "CategoryIcon": "images/category",
   "SDKVersion": 2,
-  "Author": "Christoph Giesche",
+  "Author": "Michael Willis",
   "CodePath": "plugin.html",
   "Description": "Control your Home Assistant entities with stream deck.",
   "Name": "Home Assistant",
   "Icon": "images/plugin/plugin",
   "URL": "https://github.com/cgiesche/streamdeck-homeassistant",
-  "Version": "100.2.1",
+  "Version": "1.0.0",
   "OS": [
     {
       "Platform": "mac",
